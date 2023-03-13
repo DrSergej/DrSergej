@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>💡 I just finished the bootcamp "Fullstack Development" at SuperCode<br>📚 I'm currently learning Next.js and improving my React, JS skills<br>🆕 I’m looking for an interesting new job as a Frontend Developer in/near Buchen (Odenwald) or fully remote.</p>
+<p align="left">✨ Creating bugs since 2022<br>💡 I just finished the bootcamp "Fullstack Development" at <a href="https://super-code.de/" target="_blank">SuperCode</a><br>📚 I'm currently learning Next.js and improving my React, JS skills<br>🆕 I’m looking for an interesting new job as a Frontend Developer in/near Buchen (Odenwald) or fully remote. <br>📫 How to reach me:  <a href="mailto:sergejdr.33@gmail.com">sergejdr.33@gmail.com</a></p>
+
 
 ###
 
