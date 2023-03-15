@@ -46,6 +46,30 @@
 
 ###
 
+<h2 align="left">Some of my Projects during my boot camp time</h2>
+
+###
+
+<h4 align="left">The Design Shop<br>Full responsive shop website</h4>
+
+###
+
+<span>●</span> <a href="https://drsergej.github.io/Project-Design-Shop/" target="_blank">Website</a> <br>
+<span>●</span> <a href="https://github.com/DrSergej/Project-Design-Shop" target="_blank">Github</a>
+
+###
+
+<h4 align="left">.mov-project<br>Cinema-movies-App using API and React</h4>
+
+###
+
+<span>●</span> <a href="https://dreamy-blini-f92ffa.netlify.app/" target="_blank">Website</a> <br>
+<span>●</span> <a href="https://github.com/DrSergej/.mov-Project" target="_blank">Github</a>
+
+
+###
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=DrSergej" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DrSergej" height="150" alt="languages graph"  />
@@ -54,8 +78,6 @@
 ###
 
 
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/DrSergej/count.svg?"  />
