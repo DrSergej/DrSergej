@@ -65,7 +65,7 @@
 ###
 ###
 
-<h3 align="left">.mov-project <br> <p align="left">Cinema-movies-App using API and React (WIP)</p></h3>
+<h3 align="left">.mov-project <br> <p align="left">Cinema-movies-App done using API and React (WIP)</p></h3>
 
 
 ###
