@@ -74,6 +74,28 @@
 <span>●</span> <a href="https://github.com/DrSergej/.mov-Project" target="_blank">Github</a>
 <p>---------------------------------------------------------</p>
 
+###
+
+<h3 align="left">Weather-app <br> <p align="left">done in Html, CSS, JS using API</p></h3>
+
+
+###
+
+<span>●</span> <a href="https://drsergej.github.io/Weather-App/" target="_blank">Website</a> <br>
+<span>●</span> <a href="https://github.com/DrSergej/Weather-App" target="_blank">Github</a>
+<p>---------------------------------------------------------</p>
+
+###
+
+<h3 align="left">Calory-calculator <br> <p align="left"> done in Html, CSS, JS</p></h3>
+
+
+###
+
+<span>●</span> <a href="https://drsergej.github.io/Kalorien-Rechner/" target="_blank">Website</a> <br>
+<span>●</span> <a href="https://github.com/DrSergej/Kalorien-Rechner" target="_blank">Github</a>
+<p>---------------------------------------------------------</p>
+
 
 ###
 
