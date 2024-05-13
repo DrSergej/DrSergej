@@ -57,7 +57,7 @@
 
 ###
 
-<span>●</span> <a href="https://finco-app-client.onrender.com/" target="_blank">Website</a> <span> ...give it some time to initially load</span> <br> 
+<span>●</span> <a href="https://finco-app-client.onrender.com/" target="_blank">Website</a> <span> ...give it some time to initially load (render puts apps into sleep mode after some time they were not used)</span> <br> 
 <span> test-account: login: test@test.com pw: 11111111 , Or create a new one with your credentials</span> <br>
 <span>●</span> <a href="https://github.com/YubiFuu/Finco" target="_blank">Github</a>
 <p>---------------------------------------------------------</p>
