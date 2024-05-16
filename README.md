@@ -77,7 +77,7 @@
 
 ###
 
-<h3 align="left">Project-Mapty<br> <p align="left">Workout-tracker-app. OOP+LeafletJS-libraty </p></h3>
+<h3 align="left">Project-Mapty<br> <p align="left">Workout-tracker-app. OOP+LeafletJS-library </p></h3>
 
 <span>●</span> <a href="https://project-mapty.onrender.com" target="_blank">Website</a> <span> ...give it some time to initially load (render puts apps into sleep mode after some time they were not used)</span> <br>
 <span>●</span> <a href="https://github.com/DrSergej/project-mapty" target="_blank">Github</a>
