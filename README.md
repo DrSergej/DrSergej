@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>💡 I just finished the bootcamp "Fullstack Development" at <a href="https://super-code.de/" target="_blank">SuperCode</a><br>📚 I'm currently learning Next.js and improving my React, JS skills<br>🆕 I’m looking for an interesting new job as a Frontend Developer in/near Buchen (Odenwald) or fully remote. <br>📫 How to reach me:  <a href="mailto:sergejdr.33@gmail.com">sergejdr.33@gmail.com</a></p>
+<p align="left">✨ Creating bugs since 2023<br>💡 Finished 2023 the bootcamp "Fullstack Development" at <a href="https://super-code.de/" target="_blank">SuperCode</a><br>📚 I'm currently learning Next.js, TypeScript and improving my React, JS skills<br>🆕 I’m looking for an interesting new job as a Frontend Developer in/near Buchen (Odenwald) or fully remote. <br>📫 How to reach me:  <a href="mailto:sergejdr.33@gmail.com">sergejdr.33@gmail.com</a></p>
 
 
 ###
@@ -74,6 +74,13 @@
 <span>●</span> <a href="https://dreamy-blini-f92ffa.netlify.app/" target="_blank">Website</a> <br>
 <span>●</span> <a href="https://github.com/DrSergej/.mov-Project" target="_blank">Github</a>
 <p>---------------------------------------------------------</p>
+
+###
+
+<h3 align="left">.mov-project <br> <p align="left">Project-Mapty -> Workout-tracker-app. OOP+LeafletJS-libraty </p></h3>
+
+<span>●</span> <a href="https://project-mapty.onrender.com" target="_blank">Website</a> <span> ...give it some time to initially load (render puts apps into sleep mode after some time they were not used)</span> <br>
+<span>●</span> <a href="https://github.com/DrSergej/project-mapty" target="_blank">Github</a>
 
 ###
 
